@@ -10,7 +10,13 @@
 
 ### Get in touch
 
-
+<a href="https://www.facebook.com/gabrieleolakhal/" target="_blank" style="margin-right:15px;"><img src="https://raw.githubusercontent.com/gabrielelakhal/gabrielelakhal/2dc533a82a043bc3dfddbee8d42a00fa5c3f7f25/icons/facebook-f.svg" height="25" style="margin-right:15px;"></a>
+<a href="https://www.instagram.com/gabrielelakhal/" target="_blank" style="margin-right:15px;"><img src="https://raw.githubusercontent.com/gabrielelakhal/gabrielelakhal/2dc533a82a043bc3dfddbee8d42a00fa5c3f7f25/icons/instagram.svg" height="25"></a>
+<a href="https://www.tiktok.com/@gabrielelakhal" target="_blank" style="margin-right:15px;"><img src="https://raw.githubusercontent.com/gabrielelakhal/gabrielelakhal/2dc533a82a043bc3dfddbee8d42a00fa5c3f7f25/icons/tiktok.svg" height="25"></a>
+<a href="https://twitter.com/gabrielelakhal/" target="_blank" style="margin-right:15px;"><img src="https://raw.githubusercontent.com/gabrielelakhal/gabrielelakhal/2dc533a82a043bc3dfddbee8d42a00fa5c3f7f25/icons/twitter.svg" height="25"></a>
+<a href="https://www.pinterest.it/gabrielelakhal/" target="_blank" style="margin-right:15px;"><img src="https://raw.githubusercontent.com/gabrielelakhal/gabrielelakhal/2dc533a82a043bc3dfddbee8d42a00fa5c3f7f25/icons/pinterest.svg" height="25"></a>
+<a href="https://www.linkedin.com/in/gabrielelakhal" target="_blank" style="margin-right:15px;"><img src="https://raw.githubusercontent.com/gabrielelakhal/gabrielelakhal/2dc533a82a043bc3dfddbee8d42a00fa5c3f7f25/icons/linkedin.svg" height="25"></a>
+<a href="https://www.youtube.com/user/gabrielelakhal/" target="_blank" style="margin-right:15px;"><img src="https://raw.githubusercontent.com/gabrielelakhal/gabrielelakhal/2dc533a82a043bc3dfddbee8d42a00fa5c3f7f25/icons/youtube.svg" height="25"></a>
 
 ### My Github Stats
 
